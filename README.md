@@ -1,2 +1,0 @@
-# terrenos
-mi primer repositorio
