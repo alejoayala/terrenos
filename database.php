@@ -76,9 +76,12 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'localhost',
-	'username' => 'root',
-	'password' => '',
+	//'hostname' => 'localhost',
+	'hostname' => 'terrenosdb.cx5f1zkgu5nb.us-east-2.rds.amazonaws.com',
+	//'username' => 'root',
+	//'password' => '',
+	'username' => 'alejo',
+	'password' => 'Alexis2017',
 	'database' => 'terrenos',
 	'dbdriver' => 'mysql',
 	'dbprefix' => '',
