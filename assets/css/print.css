@@ -1,0 +1,13 @@
+@media print{
+	body{
+		font-family: arial;
+		font-size: 10px;
+		letter-spacing: 1px;
+	}
+	table {font-size: 10px!important;border-collapse: collapse!important}
+	td{height:20px;}
+	/*table, th, td {
+	    border: 1px solid black;
+	    
+	}*/
+}

@@ -1,0 +1,11 @@
+table{
+	font-size: 50px;
+	max-width: 370px;
+	/*font-family: 'Courier';*/
+}
+body{
+	letter-spacing: 5px;
+	margin: 0;
+	padding: 0;
+	
+}

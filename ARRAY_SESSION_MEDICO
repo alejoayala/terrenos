@@ -1,0 +1,56 @@
+array(27) {
+  ["idusers"]=>
+  string(2) "19"
+  ["ip_address"]=>
+  NULL
+  ["username"]=>
+  string(10) "luis_salud"
+  ["email"]=>
+  string(22) "luis_salud@hotmail.com"
+  ["idsede"]=>
+  string(1) "1"
+  ["idempresa"]=>
+  string(1) "1"
+  ["sede"]=>
+  string(17) "VILLA EL SALVADOR"
+  ["empresa"]=>
+  string(16) "GESTORES MEDICOS"
+  ["grupo"]=>
+  string(5) "Salud"
+  ["idgroup"]=>
+  string(1) "4"
+  ["idespecialidad"]=>
+  string(1) "1"
+  ["especialidad"]=>
+  string(19) "ANATOMIA PATOLOGICA"
+  ["tipoespecialidad"]=>
+  string(6) "MEDICO"
+  ["idempresaadmin"]=>
+  string(1) "1"
+  ["razon_social"]=>
+  string(21) "GESTORES MEDICOS SAC."
+  ["nombre_legal"]=>
+  string(17) "GESTORES MEDICOS."
+  ["ruc"]=>
+  string(11) "12345555554"
+  ["nombre_logo"]=>
+  string(13) "gm_medium.png"
+  ["nombre_foto"]=>
+  string(22) "Como pasar el hipo.PNG"
+  ["idsedeempresaadmin"]=>
+  string(1) "1"
+  ["nombres"]=>
+  string(10) "Luis Salud"
+  ["apellido_paterno"]=>
+  string(4) "Luna"
+  ["apellido_materno"]=>
+  string(4) "Soto"
+  ["key_group"]=>
+  string(9) "key_salud"
+  ["idmedico"]=>
+  string(1) "4"
+  ["idempresaespecialidad"]=>
+  string(1) "5"
+  ["idempresamedico"]=>
+  string(2) "11"
+}

@@ -1,0 +1,25 @@
+angular
+  .module('theme.demos', [
+    'oc.lazyLoad',
+    'theme.login',
+    'theme.inicio',
+    'theme.rol',
+    'theme.grupo',
+    'theme.usuario',
+    'theme.empresa',
+    'theme.empresaAdmin',
+    'theme.sede',
+    'theme.cargo',
+    'theme.seccion',
+    'theme.banco',
+    'theme.afp',
+    'theme.familiar',
+    'theme.nivelinstruccion' ,
+    'theme.estadocivil',
+    'theme.empleado',
+    'theme.personafamiliar',
+    'theme.controlempleado',
+    'theme.asistencia',
+    'theme.horasextras',
+    'theme.persona'
+  ]);
